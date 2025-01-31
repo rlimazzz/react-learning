@@ -1,0 +1,14 @@
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fruit {
+    border: 1px solid hsl(0, 0%, 0%);
+    background-color : hsl(193, 46%, 61%);
+    margin: 10px;
+    padding: 10px;
+}
+
+.fruit:hover {
+    background-color : hsl(192, 94%, 86%);
+}
